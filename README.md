@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/logo.svg" width="300" />
+  <img src="./assets/Logo.svg" width="300" />
 </h1>
 
 <h5 align="center">Todo Ignite é o app de afazeres, nele você pode marcar as suas tarefas como concluídas, removê-las e adicionar quantas você quiser. App feito no Desafio 01 da trilha de React Native 2023</h5>
@@ -15,10 +15,8 @@
 <br/>
 
 # :rocket: Techs
-
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
-* [Native Base](https://nativebase.io/)
 
 <br/>
 
@@ -27,7 +25,7 @@
 ```
 # Clone do repositório
 Faça o clone da aplicação
-$ git clone https://github.com/FilipeDiasLima/Todo-Ignite.git
+$ git clone https://github.com/JuanCarllos13/Todo-Ignite
 ```
 
 ## Rodando o projeto mobile
@@ -36,11 +34,28 @@ $ git clone https://github.com/FilipeDiasLima/Todo-Ignite.git
 # Para rodar aplicação mobile, será necessário o EXPO
 
 # Navegue até a pasta
-$ cd Todo-Ignite
+$ cd TodoList
 
-# Instale as dependencias
-$ yarn
+# Instale as dependências
+$ npm i
 
 # Execute o comando
-$ expo start
+$ npx expo start
 ```
+
+
+## 👨‍💻 Autor<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JuanCarllos13">
+        <img src="https://github.com/JuanCarllos13.png" height="100px" alt="Foto do Juan no GitHub"/><br>
+        <sub>
+          <b>JUAN CARLOS</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</table>
+<hr>
